@@ -2,11 +2,11 @@
 
 ## Typing `docsify-this.net?` Before a Markdown File URL
 
-- Load a GitHub, Codeberg or raw source Markdown file URL into the Docsfy-This Web Page Builder to even more quickly turn any Markdown file into a web page.
+- Load a GitHub, Codeberg or raw source Markdown file URL into the Docsfy-This Web Page Builder to turn any Markdown file into a web page even more quickly.
 
 ## Pre-Configured Web Page Builder (WPB) URLs
 
-- Use pre-configured URLs, for example to save time and instantly load settings like dark mode, Sidebar levels, or consistent visual styling options.
+- Use pre-configured URLs, for example, to save time and instantly load settings like dark mode, Sidebar levels, or consistent visual styling options.
 
 ## Enable Lazy-Load Images
 
@@ -14,7 +14,7 @@
 
 ## Enable Dark Mode
 
-- Use the `dark-mode` URL parameter to automatically switch to dark mode based on System OS settings.
+- Use the `dark-mode` URL parameter to switch to dark mode automatically based on System OS settings.
 
 ## Add Footers or Navbars
 
@@ -34,7 +34,7 @@
 
 ## Embed Markdown Pages into Other Platforms
 
-- Seamlessly integrate and Docsify-This pages into websites, blogs, or LMS platforms by visually styling single page content using URL parameters.
+- Seamlessly integrate and Docsify-This pages into other platforms (e.g. LMSs) by visually styling content using URL parameters.
 
 ## Multilingual Sites
 
