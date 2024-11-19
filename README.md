@@ -2,7 +2,7 @@
 
 ## Typing `docsify-this.net?` Before a Markdown File URL
 
-- Load a Markdown file URL into the Docsfy-This Web Page Builder to even more quickly turn any Markdown file into a web page.
+- Load a GitHub, Codeberg or raw source Markdown file URL into the Docsfy-This Web Page Builder to even more quickly turn any Markdown file into a web page.
 
 ## Pre-Configured Web Page Builder (WPB) URLs
 
