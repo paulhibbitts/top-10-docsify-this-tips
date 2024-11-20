@@ -2,7 +2,7 @@
 
 ## Typing `docsify-this.net?` Before a Markdown File URL
 
-- Load a GitHub, Codeberg or raw source Markdown file URL into the Docsfy-This Web Page Builder to turn any Markdown file into a web page even more quickly.
+- Type `docsify-this.net?` in front of an GitHub, Codeberg, or raw source Markdown file URL that you are viewing to instantly set up the Docsify-This Web Page Builder with that file.
 
 ## Automatic "Edit This Page" Links
 
