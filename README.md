@@ -40,3 +40,13 @@
 
 - Support multiple languages using subfolders with content in each language, including a custom Sidebar, Navbar and Footers.
 
+# Additional Tips
+
+## Automatic "Edit This Page" Links
+
+Add an "Edit this Page" link to your GitHub or Codeberg hosted content for collaborative editing, customizable using the edit-link, edit-link-text, or edit-link-emoji URL parameters.
+
+# Advanced Web Page Builder
+
+Unlock advanced customization options like merging Navbar items into the Sidebar or setting detailed rendering preferences by using the advanced=true URL parameter.
+
