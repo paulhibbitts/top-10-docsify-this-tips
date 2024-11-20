@@ -6,7 +6,7 @@
 
 ## Automatic "Edit This Page" Links
 
-- Automatically add an "Edit this Page" link to your GitHub or Codeberg-hosted content for collaborative editing, which is customizable using the `edit-link`, `edit-link-text`, or `edit-link-emoji` URL parameters.
+- Automatically add a link to your GitHub or Codeberg-hosted content for collaborative editing or access to raw Markdown content, which is customizable using the `edit-link`, `edit-link-text`, or `edit-link-emoji` URL parameters.
 
 ## Pre-Configured Web Page Builder (WPB) URLs
 
