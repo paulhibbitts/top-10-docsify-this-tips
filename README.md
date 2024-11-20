@@ -20,13 +20,13 @@
 
 - Use the `dark-mode` URL parameter to switch to dark mode automatically based on System OS settings.
 
-## Add Footers or Navbars
-
-- Create consistent navigation or footer content across your Docsify-This site with custom Footer and Navbars Markdown files.
-
 ## Changing Sidebar Header Levels
 
 - Customize the depth of headers shown in your Sidebar with the `maxLevel` URL parameter for improved navigation on complex pages.
+
+## Add Footers or Navbars
+
+- Create consistent navigation or footer content across your Docsify-This site with custom Footer and Navbars Markdown files.
 
 ## Enable Font Awesome SVG Icons
 
