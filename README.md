@@ -44,7 +44,7 @@
 
 ## Advanced Web Page Builder
 
-- Unlock advanced customization options like merging Navbar items into the Sidebar or setting detailed rendering preferences using the advanced=true URL parameter.
+- Unlock advanced customization options like merging Navbar items into the Sidebar or setting detailed rendering preferences using the `?advanced=true` URL parameter.
 
 ## Multilingual Sites
 
