@@ -40,7 +40,7 @@
 
 - Support multiple languages using subfolders with content in each language, including a custom Sidebar, Navbar and Footers.
 
-# Additional Tips
+# Bonus Tips
 
 ## Automatic "Edit This Page" Links
 
