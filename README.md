@@ -30,7 +30,7 @@
 
 ## Enable Font Awesome SVG Icons
 
-- Enhance visual appeal with scalable, modern SVG icons using the `svg-icons` URL parameter.
+- Enhance visual appeal with scalable, modern SVG icons using the `svg-icons` URL parameter. For example, https://docsify-this.net/?basePath=https://raw.githubusercontent.com/hibbitts-design/docsify-this-lms-content-pages/main&homepage=schedule.md&svg-icons=true#/
 
 ## Integrate Mathematical Formulas and Diagrams
 
@@ -38,7 +38,7 @@
 
 ## Embed Markdown Pages into Other Platforms
 
-- Seamlessly integrate and Docsify-This pages into other platforms (e.g. LMSs) by visually styling content using URL parameters.
+- Seamlessly integrate and Docsify-This content only pages into other platforms (e.g. LMSs) by visually styling content using URL parameters. For example, https://docsify-this.net/?basePath=https://raw.githubusercontent.com/hibbitts-design/docsify-this-lms-content-pages/main&homepage=module-01.md&font-family=Lato%20Extended,%20Lato,Helvetica%20Neue,%20Helvetica,%20Arial,%20sans-serif&hide-credits=true
 
 # Bonus Tips
 
