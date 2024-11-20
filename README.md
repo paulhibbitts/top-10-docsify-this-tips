@@ -10,7 +10,7 @@
 
 ## Pre-Configured Web Page Builder (WPB) URLs
 
-- Use pre-configured URLs, for example, to save time and instantly load settings like dark mode, Sidebar levels, or consistent visual styling options.
+- Use pre-configured Web Page Builder URLs to save time and instantly load settings like dark mode, Sidebar levels, or consistent visual styling options. For example https://docsify-this.net/?sidebar=true&maxLevel=3&font-family=Merriweather,Georgia,serif
 
 ## Enable Lazy-Load Images
 
