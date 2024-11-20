@@ -56,6 +56,6 @@
 
    ```markdown
 
-   ### Hidden Header <!-- {docsify-ignore} -->
+   ### Hidden Sidebar Header <!-- {docsify-ignore} -->
    
    ```
