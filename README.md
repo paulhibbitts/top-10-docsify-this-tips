@@ -40,10 +40,6 @@
 
 - Seamlessly integrate and Docsify-This pages into other platforms (e.g. LMSs) by visually styling content using URL parameters.
 
-## Multilingual Sites
-
-- Support multiple languages using subfolders with content in each language, including a custom Sidebar, Navbar and Footers.
-
 # Bonus Tips
 
 ## Advanced Web Page Builder
