@@ -44,7 +44,7 @@
 
 ## Advanced Web Page Builder
 
-- Automatically show advanced customization options like merging Navbar items into the Sidebar or setting detailed rendering preferences using the URL parameter `advanced`. For example, https://docsify-this.net?advanced=true (which you can make a bookmark of).
+- Automatically show advanced Web Page Builder options like merging Navbar items into the Sidebar or setting detailed rendering preferences using the URL parameter `advanced`. For example, https://docsify-this.net?advanced=true (which you can make a bookmark of).
 
 ## Multilingual Sites
 
