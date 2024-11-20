@@ -1,4 +1,4 @@
-# **Top 10 Docsify-This Tips**
+# **Top 10 Docsify-This Tips for Markdown Publishing**
 
 ## Quickly Load a Markdown URL into Docsify-This
 
