@@ -4,6 +4,10 @@
 
 - Load a GitHub, Codeberg or raw source Markdown file URL into the Docsfy-This Web Page Builder to turn any Markdown file into a web page even more quickly.
 
+## Automatic "Edit This Page" Links
+
+- Automatically add an "Edit this Page" link to your GitHub or Codeberg-hosted content for collaborative editing, which is customizable using the edit-link, edit-link-text, or edit-link-emoji URL parameters.
+
 ## Pre-Configured Web Page Builder (WPB) URLs
 
 - Use pre-configured URLs, for example, to save time and instantly load settings like dark mode, Sidebar levels, or consistent visual styling options.
@@ -44,8 +48,8 @@
 
 ## Advanced Web Page Builder
 
-Unlock advanced customization options like merging Navbar items into the Sidebar or setting detailed rendering preferences using the advanced=true URL parameter.
+- Unlock advanced customization options like merging Navbar items into the Sidebar or setting detailed rendering preferences using the advanced=true URL parameter.
 
-## Automatic "Edit This Page" Links
+## Multilingual Sites
 
-Add an "Edit this Page" link to your GitHub or Codeberg-hosted content for collaborative editing, which is customizable using the edit-link, edit-link-text, or edit-link-emoji URL parameters.
+- Support multiple languages using subfolders with content in each language, including a custom Sidebar, Navbar and Footers.
