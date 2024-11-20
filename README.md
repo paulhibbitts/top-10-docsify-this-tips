@@ -16,7 +16,7 @@
 
 - Improve page performance with the `lazy-load-images` URL parameter for loading images only when they appear in the viewport, which is especially useful for image-heavy content.
 
-## Enable Dark Mode
+## Support Dark Mode Viewing
 
 - Use the `dark-mode` URL parameter to switch to dark mode automatically based on System OS settings. For example, https://docsify-this.net/?basePath=https://raw.githubusercontent.com/hibbitts-design/docsify-this-one-page-article/main&homepage=home.md&dark-mode=true
 
