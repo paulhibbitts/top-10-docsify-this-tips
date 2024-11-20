@@ -34,7 +34,7 @@
 
 ## Integrate Mathematical Formulas and Diagrams
 
-- Use Latex for math or Mermaid for diagrams to support the display of mathematical formulas and diagrams.
+- Built-in support for both Latex and Mermaid to support the display of mathematical formulas and diagrams.
 
 ## Embed Markdown Pages into Other Platforms
 
