@@ -30,7 +30,7 @@
 
 ## Enable Font Awesome SVG Icons
 
-- Enhance visual appeal with scalable, modern SVG icons using the `svg-icons` URL parameter. For example, https://docsify-this.net/?basePath=https://raw.githubusercontent.com/hibbitts-design/docsify-this-lms-content-pages/main&homepage=schedule.md&svg-icons=true#/
+- Use SVG icons for more HTML styling options with the `svg-icons` URL parameter. For example, https://docsify-this.net/?basePath=https://raw.githubusercontent.com/hibbitts-design/docsify-this-lms-content-pages/main&homepage=schedule.md&svg-icons=true
 
 ## Integrate Mathematical Formulas and Diagrams
 
