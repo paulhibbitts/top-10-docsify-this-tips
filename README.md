@@ -1,6 +1,6 @@
 # **Top 10 Docsify-This Tips**
 
-## Quickly Load a Markdown URL into Docsify-This
+## QuicklyLoad a Markdown URL into Docsify-This
 
 - Type `docsify-this.net?` in front of a GitHub, Codeberg, or raw source Markdown file URL that you are viewing to instantly set up the Docsify-This Web Page Builder with that file. For example, https://docsify-this.net/?github.com/hibbitts-design/docsify-this-one-page-course/blob/main/home.md
 
