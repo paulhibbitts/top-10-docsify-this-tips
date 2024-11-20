@@ -38,13 +38,13 @@
 
 ## Embed Markdown Pages into Other Platforms
 
-- Seamlessly integrate and Docsify-This content only pages into other platforms (e.g. LMSs) by visually styling content using URL parameters. For example, https://docsify-this.net/?basePath=https://raw.githubusercontent.com/hibbitts-design/docsify-this-lms-content-pages/main&homepage=module-01.md&font-family=Lato%20Extended,%20Lato,Helvetica%20Neue,%20Helvetica,%20Arial,%20sans-serif&hide-credits=true
+- Seamlessly integrate and Docsify-This content only pages into other platforms (e.g. LMSs) by visually styling content using URL parameters. For example, https://docsify-this.net/?basePath=https://raw.githubusercontent.com/hibbitts-design/docsify-this-lms-content-pages/main&homepage=module-01.md&font-family=Lato%20Extended,%20Lato,Helvetica%20Neue,%20Helvetica,%20Arial,%20sans-serif&font-size=1&hide-credits=true#
 
 # Bonus Tips
 
 ## Advanced Web Page Builder
 
-- Automatically show advanced customization options like merging Navbar items into the Sidebar or setting detailed rendering preferences using the URL `https://docsify-this.net?advanced=true`.
+- Automatically show advanced customization options like merging Navbar items into the Sidebar or setting detailed rendering preferences using the URL `https://docsify-this.net?advanced=true`, which you can also make a bookmark of.
 
 ## Multilingual Sites
 
