@@ -52,4 +52,10 @@
 
 ## Use Docsify.js.org Markdown Content Markup
 
--  You can include Docsify-specific markup within your Markdown files, for example hide a specific Header in the Sidebar with `<!-- {docsify-ignore} -->`.
+-  You can include Docsify-specific markup within your Markdown files, for example:
+
+   ```markdown
+
+   ### Hidden Header <!-- {docsify-ignore} -->
+   
+   ```
