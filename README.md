@@ -18,11 +18,11 @@
 
 ## Enable Dark Mode
 
-- Use the `dark-mode` URL parameter to switch to dark mode automatically based on System OS settings.
+- Use the `dark-mode` URL parameter to switch to dark mode automatically based on System OS settings. For example, https://docsify-this.net/?basePath=https://raw.githubusercontent.com/hibbitts-design/docsify-this-one-page-article/main&homepage=home.md&dark-mode=true
 
 ## Changing Sidebar Header Levels
 
-- Customize the depth of headers shown in your Sidebar with the `maxLevel` URL parameter for improved navigation on complex pages.
+- Customize the depth of headers shown in your Sidebar with the `maxLevel` URL parameter for improved navigation on complex pages. For example, https://docsify-this.net/?basePath=https://raw.githubusercontent.com/hibbitts-design/docsify-this-one-page-article/main&homepage=home.md&sidebar=true&maxLevel=3#/
 
 ## Add Footers or Navbars
 
