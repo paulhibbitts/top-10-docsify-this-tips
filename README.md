@@ -2,7 +2,7 @@
 
 ## Quickly Load a Markdown URL into Docsify-This
 
-- Type `docsify-this.net?` in front of an GitHub, Codeberg, or raw source Markdown file URL that you are viewing to instantly set up the Docsify-This Web Page Builder with that file.
+- Type `docsify-this.net?` in front of an GitHub, Codeberg, or raw source Markdown file URL that you are viewing to instantly set up the Docsify-This Web Page Builder with that file. For example, https://docsify-this.net/?github.com/hibbitts-design/docsify-this-one-page-course/blob/main/home.md
 
 ## Automatic "Edit This Page" Links
 
