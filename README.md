@@ -49,3 +49,7 @@
 ## Multilingual Sites
 
 - Support multiple languages using subfolders with content in each language, including a custom Sidebar, Navbar and Footers.
+
+## Selectively Hide Page Headers in Sidebar
+
+-  Optionally hide a specific Header in the Sidebar using the tag  `<!-- {docsify-ignore} -->`.
