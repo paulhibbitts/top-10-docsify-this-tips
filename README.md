@@ -59,6 +59,6 @@
    ## Hidden Sidebar Header <!-- {docsify-ignore} -->
    
    ```
-## View the Docsify-This ReadMe Docs with Docsify-This
+## View the Docsify-This ReadMe with Docsify-This
 
-- Did you know you can view the Docsify-This ReadMe.md file with Docsify-This itself? Great way to have easier access to the Docsify-This doc in a second Browser tab! https://docsify-this.net/?basePath=https://raw.githubusercontent.com/hibbitts-design/docsify-this/main&homepage=README.md&edit-link=https://github.com/hibbitts-design/docsify-this/blob/main/README.md&sidebar=true&browser-tab-title=Docsify-This%20ReadMe&edit-link-text=Suggest%20an%20Edit%20on%20GitHub&maxLevel=4&header-weight=600&zoom-images=true&dark-mode=true
+- Did you know you can view the Docsify-This ReadMe.md documentation file with Docsify-This itself? Great way to have easier access to the Docsify-This doc in a second Browser tab! https://docsify-this.net/?basePath=https://raw.githubusercontent.com/hibbitts-design/docsify-this/main&homepage=README.md&edit-link=https://github.com/hibbitts-design/docsify-this/blob/main/README.md&sidebar=true&browser-tab-title=Docsify-This%20ReadMe&edit-link-text=Suggest%20an%20Edit%20on%20GitHub&maxLevel=4&header-weight=600&zoom-images=true&dark-mode=true
