@@ -42,10 +42,10 @@
 
 # Bonus Tips
 
-## Automatic "Edit This Page" Links
-
-Add an "Edit this Page" link to your GitHub or Codeberg-hosted content for collaborative editing, which is customizable using the edit-link, edit-link-text, or edit-link-emoji URL parameters.
-
 ## Advanced Web Page Builder
 
 Unlock advanced customization options like merging Navbar items into the Sidebar or setting detailed rendering preferences using the advanced=true URL parameter.
+
+## Automatic "Edit This Page" Links
+
+Add an "Edit this Page" link to your GitHub or Codeberg-hosted content for collaborative editing, which is customizable using the edit-link, edit-link-text, or edit-link-emoji URL parameters.
