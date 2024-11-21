@@ -11,7 +11,8 @@
 
 ## Pre-Configured Web Page Builder (WPB) URLs
 
-- Use pre-configured Web Page Builder URLs to save time and instantly load settings like Sidebar levels or consistent visual styling options. For example https://docsify-this.net/?sidebar=true&maxLevel=3&font-family=Merriweather,Georgia,serif
+- Use pre-configured Web Page Builder URLs to save time and instantly load settings like Sidebar levels or consistent visual styling options.  
+  For example https://docsify-this.net/?sidebar=true&maxLevel=3&font-family=Merriweather,Georgia,serif
 
 ## Enable Lazy-Load Images
 
@@ -19,11 +20,13 @@
 
 ## Support Dark Mode Viewing
 
-- Use the `dark-mode` URL parameter to switch to dark mode automatically based on System OS settings. For example, https://docsify-this.net/?basePath=https://raw.githubusercontent.com/hibbitts-design/docsify-this-one-page-article/main&homepage=home.md&dark-mode=true
+- Use the `dark-mode` URL parameter to switch to dark mode automatically based on System OS settings.  
+  For example, https://docsify-this.net/?basePath=https://raw.githubusercontent.com/hibbitts-design/docsify-this-one-page-article/main&homepage=home.md&dark-mode=true
 
 ## Changing Sidebar Header Levels
 
-- Customize the depth of headers shown in your Sidebar with the `maxLevel` URL parameter for improved navigation on complex pages. For example, https://docsify-this.net/?basePath=https://raw.githubusercontent.com/hibbitts-design/docsify-this-one-page-article/main&homepage=home.md&sidebar=true&maxLevel=3#/
+- Customize the depth of headers shown in your Sidebar with the `maxLevel` URL parameter for improved navigation on complex pages.  
+  For example, https://docsify-this.net/?basePath=https://raw.githubusercontent.com/hibbitts-design/docsify-this-one-page-article/main&homepage=home.md&sidebar=true&maxLevel=3#/
 
 ## Add Footers or Navbars
 
@@ -39,7 +42,8 @@
 
 ## Embed Markdown Pages into Other Platforms
 
-- Seamlessly integrate and Docsify-This content only pages into other platforms (e.g. LMSs) by visually styling content using URL parameters such as `font-family` and `font-size`. For example, https://docsify-this.net/?basePath=https://raw.githubusercontent.com/hibbitts-design/docsify-this-lms-content-pages/main&homepage=module-01.md&font-family=Lato%20Extended,%20Lato,Helvetica%20Neue,%20Helvetica,%20Arial,%20sans-serif&font-size=1&hide-credits=true#
+- Seamlessly integrate and Docsify-This content only pages into other platforms (e.g. LMSs) by visually styling content using URL parameters such as `font-family` and `font-size`.
+  For example, https://docsify-this.net/?basePath=https://raw.githubusercontent.com/hibbitts-design/docsify-this-lms-content-pages/main&homepage=module-01.md&font-family=Lato%20Extended,%20Lato,Helvetica%20Neue,%20Helvetica,%20Arial,%20sans-serif&font-size=1&hide-credits=true#
 
 # Bonus Tips
 
